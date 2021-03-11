@@ -5,6 +5,9 @@ Structure
 - `mybuddy` - the app (React Native / Expo)
 - `mybuddy-api` - the server (ExpressJS / Firebase Cloud Functions)
 
+
+Learn more at https://habibrehman.com/work/mybuddy
+
 ## Development
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
